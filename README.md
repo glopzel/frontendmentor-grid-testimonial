@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/glopzel/frontendmentor-grid-testimonial)
-- Live Site URL: [Add live site URL here](https://glopzel.github.io/frontendmentor-grid-testimonial/)
+- Solution URL: [Github repo](https://github.com/glopzel/frontendmentor-grid-testimonial)
+- Live Site URL: [Live site on github pages](https://glopzel.github.io/frontendmentor-grid-testimonial/)
 
 ## My process
 
