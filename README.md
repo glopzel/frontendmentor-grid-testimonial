@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a great to practice CSS Grid skills.
+This was a great challenge to practice CSS Grid skills.
 
 ### Continued development
 
